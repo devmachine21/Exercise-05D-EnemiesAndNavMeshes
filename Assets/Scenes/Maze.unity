@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -284,15 +283,15 @@ Light:
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
+  m_CookieSize: 7.41
   m_Shadows:
     m_Type: 2
-    m_Resolution: -1
+    m_Resolution: 3
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
+    m_Bias: 0.14
+    m_NormalBias: 0
+    m_NearPlane: 0.1
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
@@ -483,21 +482,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tiles:
   - {fileID: 6091354759862484494, guid: c2bdfb10855a93246aa3c078a85ea623, type: 3}
-  - {fileID: 6091354759862484494, guid: 34bf76543933622409270788f95ca172, type: 3}
-  - {fileID: 6091354759862484494, guid: c68e2522a33492547beca80b409bb6a5, type: 3}
-  - {fileID: 6091354759862484494, guid: 6ac9e0f06a21f9345ab5557f9d7a2b5c, type: 3}
-  - {fileID: 6091354759862484494, guid: 5e273c87e22b5ed4fba6da8db8b6ccb8, type: 3}
-  - {fileID: 6091354759862484494, guid: 4ab007f83ac7f494b978d6f643b6ed79, type: 3}
-  - {fileID: 6091354759862484494, guid: 8b27424cdc2b80a4d92f7af95efb5ee7, type: 3}
-  - {fileID: 6091354759862484494, guid: 5f29503744e7fc84190a850044285606, type: 3}
-  - {fileID: 6091354759862484494, guid: aca734b06f180204c8b8ebf2730405df, type: 3}
-  - {fileID: 6091354759862484494, guid: 2e9bfce3bdc209940964b1e257fd7ffa, type: 3}
-  - {fileID: 6091354759862484494, guid: 8ba59ef9b70f978479a1689bc32dc338, type: 3}
-  - {fileID: 6091354759862484494, guid: a267413490b9a7c4e9ea4c70c81606ba, type: 3}
-  - {fileID: 6091354759862484494, guid: d4f4451d3c197094384b6345f6619095, type: 3}
-  - {fileID: 6091354759862484494, guid: c7315d8cfaef75f40923b6e6a15c332f, type: 3}
-  - {fileID: 6091354759862484494, guid: 0bfc51dd5dd251140b6bab654d6a13fb, type: 3}
-  - {fileID: 6091354759862484494, guid: d336f0fada4300f419640487c6a7a8ef, type: 3}
+  - {fileID: 1904286874988387597, guid: e2455fefbe9dbb94fb00ba57432be5e5, type: 3}
+  - {fileID: 8366320565072530352, guid: 3a6c6a16e1cbf2e40b784b81c443910a, type: 3}
+  - {fileID: 3762807761282605438, guid: 66aa88516b1f2914cb2744323e6e2d7e, type: 3}
+  - {fileID: 3307646728000367126, guid: 881ae0269d8417344ae41bf33a79cae8, type: 3}
+  - {fileID: 5205923623437620949, guid: b0b9778b94e83104ba1ca4030338104b, type: 3}
+  - {fileID: 812665104204014403, guid: b15645a4da510a74a86fa1fc3f676959, type: 3}
+  - {fileID: 5698544785611178931, guid: c6fe82755ee39e84b83f040fd5b9cf0d, type: 3}
+  - {fileID: 1146563695272162310, guid: dd750ee840c43634c98e53211867efd2, type: 3}
+  - {fileID: 5308942080948464196, guid: 3147710e108b674428660675fcb44474, type: 3}
+  - {fileID: 291573605965193942, guid: 8c0bbad78e82bd04f93571a4a8961a44, type: 3}
+  - {fileID: 8355890732803959168, guid: 1c544f475afdd0f41931ef5649eb99b0, type: 3}
+  - {fileID: 6271442846825220967, guid: 34e268f3ca324d6428e73b05031bda22, type: 3}
+  - {fileID: 7734184743206727767, guid: bdadd889a725877428407f1e35035026, type: 3}
+  - {fileID: 7248046724078850828, guid: 00ff996a370cf6748aa4fae74b0a0af9, type: 3}
+  - {fileID: 4314960887655518880, guid: fc27a778b7c1b7246bf9c480f6311cf2, type: 3}
   player: {fileID: 1933069850631641511, guid: a989a26c76875fb43b14d309592f9e72, type: 3}
   width: 5
   height: 10
