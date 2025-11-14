@@ -1,20 +1,22 @@
-# Exercise-05d-LightsAndMaterials
+# FIND THE EXIT
 
 
 
 ## Implementation
-
+- Maze to navigate
+- Exit To Find
+- Mazes get increasingly complex the more exits you find
+- Added music which dynamically changes depending on how many exits you find
+- Added a main menu and end screen
+- Added a custom enemy which uses a custom pathfinding solution (also known as, straight line to the player)
+- Various bits of polish and sound effects.
+- Creative use of lighting, materials
+- Uses materials not from the original project
+- Game, ITS A GAME!!!!!!!
 ## References
-
+- Many sound effects, music, and HASTE enemy created by (LSPLASH) (From doors)
+- Inspired from GRACE and Doors
 ## Future Development
-
-* Redo The Materials
-* Redo The Movement Code
-* Redo the gameplay loop
-* Redo the horribly cursed maze prefab because who in their right mind would put 1 maze piece into 16 different prefabs and not make any of them a prefab variant
-* How much am I going to have to recode? probably a lot... Oh well :3
-
+N/A
 ## Created by
-
 Evan Schulenberg
-
